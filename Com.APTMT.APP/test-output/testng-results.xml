@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-20T11:51:59 IST" name="Default suite" finished-at="2023-07-20T11:52:08 IST" duration-ms="8166">
+    <groups>
+    </groups>
+    <test started-at="2023-07-20T11:51:59 IST" name="Default test" finished-at="2023-07-20T11:52:08 IST" duration-ms="8166">
+      <class name="TestClass_Pkg.Task_Ama_CreateAccount">
+        <test-method signature="Amazon()[pri:0, instance:TestClass_Pkg.Task_Ama_CreateAccount@611889f4]" started-at="2023-07-20T11:51:59 IST" name="Amazon" finished-at="2023-07-20T11:52:07 IST" duration-ms="8111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon -->
+      </class> <!-- TestClass_Pkg.Task_Ama_CreateAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
